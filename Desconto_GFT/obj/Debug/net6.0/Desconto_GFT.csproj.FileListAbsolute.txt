@@ -1,0 +1,15 @@
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\bin\Debug\net6.0\Desconto_GFT.exe
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\bin\Debug\net6.0\Desconto_GFT.deps.json
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\bin\Debug\net6.0\Desconto_GFT.runtimeconfig.json
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\bin\Debug\net6.0\Desconto_GFT.dll
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\bin\Debug\net6.0\ref\Desconto_GFT.dll
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\bin\Debug\net6.0\Desconto_GFT.pdb
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\Desconto_GFT.csproj.AssemblyReference.cache
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\Desconto_GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\Desconto_GFT.AssemblyInfoInputs.cache
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\Desconto_GFT.AssemblyInfo.cs
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\Desconto_GFT.csproj.CoreCompileInputs.cache
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\Desconto_GFT.dll
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\ref\Desconto_GFT.dll
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\Desconto_GFT.pdb
+C:\Users\gorde\Desktop\Desconto_GFT\Desconto_GFT\obj\Debug\net6.0\Desconto_GFT.genruntimeconfig.cache
